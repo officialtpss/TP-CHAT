@@ -18,7 +18,7 @@
         "joi": "^17.6.0",
         "jsonwebtoken": "^8.5.1",
         "moment": "^2.29.1",
-        "mongoose": "^5.13.2",
+        "mongoose": "^5.13.20",
         "nodemailer": "^6.8.0",
         "nodmeon": "^0.0.1-security",
         "react-scripts": "^5.0.1",
